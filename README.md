@@ -1,8 +1,8 @@
-### 🥝 Auto Express
+### 🥝 Belaz (Eddie's Car)
 
-Landing page of a car transportation company
+Landing page of Eddie's Car
 
-**[Demo](https://vercel.com/logicaloak/auto-express)**
+**[Demo](https://vercel.com/logicaloak/belaz)**
 
 ---
 
